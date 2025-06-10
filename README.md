@@ -42,16 +42,16 @@ Tech: FastAPI · OpenAI Agents SDK · PostgreSQL · Next.js · Tailwind · Docke
 
 ## 📈 GitHub Stats
 
-![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahir826&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahir826&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- Email: your@email.com
+- LinkedIn: [your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-tahir-hassan-a740a5329))
+  
+- Email: muhammadtahirhassan@outlook.com
 
 ---
 
