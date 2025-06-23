@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhamad Tahir Hassan
 
-🎓 A Full Stack Agentic AI Engineer in training | 🧠 Building AI-powered apps with OpenAI Agents SDK, LangGraph, FastAPI, and Next.js
+🎓 A Full Stack Agentic AI Engineer | 🧠 Building AI-powered apps with OpenAI Agents SDK, LangGraph, FastAPI, and Next.js
 
 ---
 
